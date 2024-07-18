@@ -46,6 +46,7 @@ WHERE track_id IN
      WHERE genre.name LIKE 'Rock')
 ORDER BY email;
 
+-- Method 2
 SELECT DISTINCT email AS Email, first_name AS FirstName, last_name AS LastName, genre.name AS Genre
 FROM customer
 JOIN invoice ON invoice.customer_id = customer.customer_id
