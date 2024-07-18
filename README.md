@@ -9,7 +9,7 @@ This project analyzes a music store's data using SQL queries to gain insights in
 - **Music Popularity**: Explore the most popular music genres and artists based on customer purchases.
 
 ## Data Schema  
-![MusicDatabaseSchema](https://github.com/Rudra-Patel-2906/MusicStoreAnalysis/blob/main/MusicDatabaseSchema.png)
+![MusicDatabaseSchema](https://github.com/rudrapatel29/MusicStoreAnalysis/blob/main/schema.png)
 
 ## Dependencies
 This project requires a database management system that supports SQL queries. Popular options include:
