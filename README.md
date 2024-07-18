@@ -11,24 +11,6 @@ This project analyzes a music store's data using SQL queries to gain insights in
 ## Data Schema  
 ![MusicDatabaseSchema](https://github.com/Rudra-Patel-2906/MusicStoreAnalysis/blob/main/MusicDatabaseSchema.png)
 
-## SQL Queries
-The project utilizes various SQL queries to extract valuable information from the database schema. Here are the key analyses:
-
-- **Top-Spending Customer**: Identify the highest-spending customer and their total purchase amount.
-- **Revenue by City**: Find the city with the most significant revenue generation from music sales.
-- **Popular Music Genres**: Determine the most popular music genres based on customer purchases.
-- **Top Rock Artists**: List artists with the most extensive track collections within the rock genre.
-- **Long Tracks**: Uncover tracks exceeding the average song length and their durations.
-
-## Benefits
-This project demonstrates the power of SQL in analyzing music store data to:
-- Improve customer targeting and marketing strategies.
-- Optimize inventory management based on purchasing trends.
-- Gain insights into customer preferences for specific music genres and artists.
-
-## Getting Started
-This repository provides a framework for analyzing music store data using SQL. You can adapt the provided structure and concepts to explore your music store's data and gain valuable business intelligence.
-
 ## Dependencies
 This project requires a database management system that supports SQL queries. Popular options include:
 - MySQL
@@ -54,13 +36,6 @@ This project requires a database management system that supports SQL queries. Po
 This project provides valuable insights into customer behavior, sales trends, and music preferences within a music store. By leveraging SQL for data analysis, businesses can make informed decisions to enhance customer satisfaction, optimize sales strategies, and understand popular music trends.
 
 ## Repository Contents
-- **Data**: SQL scripts and database schema used for the analysis.
+- **Data**: Data used for analysis.
 - **Queries**: SQL queries used to extract and analyze data.
-- **Results**: Documentation of findings and insights from the analysis.
-
-## Findings and Visualizations
-- **Top-Spending Customer**
-- **City with Highest Revenue**
-- **Most Popular Music Genres**
-- **Top Rock Artists**
-- **Tracks Longer than Average Duration**
+- **Schema**: Visual representation of the relational database structure.
